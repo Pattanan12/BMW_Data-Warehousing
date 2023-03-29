@@ -1,6 +1,5 @@
 # BMW_Data-Warehousing
-## This is a part of subject itcs453_data warehousing and data mining to analytics BMW company in three main processes which are
-## payment process, product process, and branch process
+## This is a part of subject itcs453_data warehousing and data mining to analytics BMW company in three main processes which are payment process, product process, and branch process
 
 # How to run this project
 ## 1. Download and install tableau desktop to visualize data if you want to see how to manage the data download tableau prep too
